@@ -1,7 +1,6 @@
 {
-  "name": "11-note-taker",
+  "name": "-y",
   "version": "1.0.0",
-  "description": "",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -16,5 +15,6 @@
   "bugs": {
     "url": "https://github.com/nmchristianson/note-taker/issues"
   },
-  "homepage": "https://github.com/nmchristianson/note-taker#readme"
+  "homepage": "https://github.com/nmchristianson/note-taker#readme",
+  "description": ""
 }
